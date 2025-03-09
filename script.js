@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 3, 
             nome: 'BCAA', 
             preco: 60.00, 
-            imagem: 'img/bcaa-max.jpg' ,
+            imagem: 'img/bcaa-max.png' ,
             width: 170, // Largura personalizada
             height: 170 // Altura personalizada
         },
@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 4, 
             nome: 'Pré-Treino',
             preco: 99.00, 
-            imagem: 'img/pretreino-haze.jpg' ,
+            imagem: 'img/pretreino-haze.png' ,
             width: 170, // Largura personalizada
             height: 170 // Altura personalizada
         },
@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 5, 
             nome: 'Cafeína', 
             preco: 80.00, 
-            imagem: 'img/Cafeina-nutrex.jpg' ,
+            imagem: 'img/Cafeina-nutrex.png' ,
             width: 170, // Largura personalizada
             height: 170 // Altura personalizada
         },
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 6, 
             nome: 'Glutamina', 
             preco: 85.00, 
-            imagem: 'img/snakedragon-glutamina.jpg' ,
+            imagem: 'img/snakedragon-glutamina.png' ,
             width: 170, // Largura personalizada
             height: 170 // Altura personalizada 
         }
